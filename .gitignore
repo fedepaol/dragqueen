@@ -14,6 +14,7 @@
 bin/
 gen/
 build/
+gradle/
 local.properties
 
 # crashlytics generated file
